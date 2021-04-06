@@ -1,6 +1,0 @@
-Removed Member From Class: ClassName=N-FPGA Member=JP3
-Added Component: Designator=JP4(USB_MICRO_MOLEX)
-Change Class Name : Old Net Name=Sheet1 New Net Name=N-FPGA2
-Added Member To Class: ClassName=N-FPGA Member=Component JP4 USB-MICRO-B-MOLEX
-Change Room Name: Old Name=Sheet1 New Name=N-FPGA2
-Change Room Scope: Old Scope=InComponentClass('Sheet1') New Scope=InComponentClass('N-FPGA2')

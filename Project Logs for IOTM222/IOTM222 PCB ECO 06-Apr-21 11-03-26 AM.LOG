@@ -1,0 +1,15 @@
+Added Component: Designator=J1(IOT-HIROSE-FX6-60S-0.8SV(71)-TOP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.molex.com/pdm_docs/sd/5037726010_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/pdm_docs/sd/5037726010_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "S.Description"; Value = "CONN RCPT 60POS 0.4MM SMD GOLD"; VariantName = "[No Variations]"
+Added Component: Designator=J2(IOT-HIROSE-FX6-60P-0.8SV(71)-TOP)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.molex.com/pdm_docs/sd/5037726010_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/pdm_docs/sd/5037726010_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "S.Description"; Value = "CONN RCPT 60POS 0.4MM SMD GOLD"; VariantName = "[No Variations]"
+Added Component: Designator=J3(IOT-HIROSE-FX6-60S-0.8SV(71)-TOP)
+Added Component: Designator=M1(IOTMODULAR)
+Change Class Name : Old Net Name=N-FPGA New Net Name=IOTM222
+Added Class: Name=IOTM-222B
+Change Room Name: Old Name=N-FPGA New Name=IOTM-222B
+Change Room Scope: Old Scope=InComponentClass('N-FPGA') New Scope=InComponentClass('IOTM-222B')
+Added Room: Name=IOTM222
