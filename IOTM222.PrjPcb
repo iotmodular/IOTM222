@@ -41,7 +41,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=3D and Sch.OutJob
+DocumentPath=..\N-FPGA\3D and Sch.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=3D_TOP_A4_PDF.OutJob
+DocumentPath=..\N-FPGA\3D_TOP_A4_PDF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=3D_BOTTOM_A4_PDF.OutJob
+DocumentPath=..\N-FPGA\3D_BOTTOM_A4_PDF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=SCHEMATIC_PDF.OutJob
+DocumentPath=..\N-FPGA\SCHEMATIC_PDF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -109,7 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=GERBER.OutJob
+DocumentPath=..\N-FPGA\GERBER.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -126,7 +126,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=gerber_paste_only.OutJob
+DocumentPath=..\N-FPGA\gerber_paste_only.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,7 +143,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=pick-place.OutJob
+DocumentPath=..\N-FPGA\pick-place.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -160,7 +160,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=LAYERS_FROM_CAD.OutJob
+DocumentPath=..\N-FPGA\LAYERS_FROM_CAD.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -177,7 +177,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=BOM_FROM_CAD.OutJob
+DocumentPath=..\N-FPGA\BOM_FROM_CAD.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -194,7 +194,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=BOM_FOR_PARTS_VENDORS.OutJob
+DocumentPath=..\N-FPGA\BOM_FOR_PARTS_VENDORS.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -211,7 +211,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=README.txt
+DocumentPath=..\N-FPGA\README.txt
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -313,7 +313,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=N-FPGA.SCHLIB
+DocumentPath=..\N-FPGA\N-FPGA.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -330,7 +330,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SHLMJTTI
 
 [Document18]
-DocumentPath=IOTM222.PcbDoc
+DocumentPath=C:\Users\nikolaos.chalikias\Documents\IOTM222.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -347,13 +347,13 @@ GenerateClassCluster=0
 DocumentUniqueId=FDKODTWC
 
 [Document19]
-DocumentPath=IOTM-222B.SchDoc
+DocumentPath=..\N-FPGA\IOTM-222B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
