@@ -1,4 +1,4 @@
-#[IOTM222](https://github.com/nikoschalikias/IOTM222)  
+# [IOTM222](https://github.com/nikoschalikias/IOTM222)  
 [![](https://img.shields.io/badge/iotmodular-IOTM222-802000.svg)](https://github.com/iotmodular/IOTM222)
 
 
