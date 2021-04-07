@@ -1,0 +1,93 @@
+Change Component Footprint: Designator=J3 Old Footprint=IOT-HIROSE-FX6-60P-0.8SV(71)-TOP New Footprint=IOT-HIROSE-FX6-60S-0.8SV(71)-TOP
+Change Component Footprint: Designator=J4 Old Footprint=IOT-HIROSE-FX6-60S-0.8SV(71)-TOP New Footprint=IOT-HIROSE-FX6-60P-0.8SV(71)-TOP
+Added Component: Designator=M1(IOTMODULAR)
+Added Component: Designator=U1(csBGA132)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.latticesemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.latticesemi.com/documents/DS1035.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.latticesemi.com/lit/docs/package/pkg.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver01.5, Aug-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "132-Ball Chip Scale Ball Grid Array (csBGA132)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "csBGA132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "ver02.8, Jul-2011"; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFN24)
+Added Pin To Net: NetName=P2.0 Pin=U1-A2
+Added Pin To Net: NetName=P0.10 Pin=U1-A3
+Added Pin To Net: NetName=P0.17 Pin=U1-A4
+Added Pin To Net: NetName=P2.9 Pin=U1-A6
+Added Pin To Net: NetName=P1.23 Pin=U1-A7
+Added Pin To Net: NetName=P0.29 Pin=U1-A9
+Added Pin To Net: NetName=P0.21 Pin=U1-A10
+Added Pin To Net: NetName=P1.18 Pin=U1-A11
+Added Pin To Net: NetName=P1.21 Pin=U1-A12
+Added Pin To Net: NetName=P1.25 Pin=U1-A13
+Added Pin To Net: NetName=P2.1 Pin=U1-B3
+Added Pin To Net: NetName=P0.18 Pin=U1-B4
+Added Pin To Net: NetName=P0.15 Pin=U1-B5
+Added Pin To Net: NetName=RESET-CPU Pin=U1-B6
+Added Pin To Net: NetName=P0.23 Pin=U1-B7
+Added Pin To Net: NetName=P2.13 Pin=U1-B8
+Added Pin To Net: NetName=P0.30 Pin=U1-B9
+Added Pin To Net: NetName=P1.19 Pin=U1-B12
+Added Pin To Net: NetName=P2.6 Pin=U1-B13
+Added Pin To Net: NetName=P0.4 Pin=U1-B14
+Added Pin To Net: NetName=P0.11 Pin=U1-C4
+Added Pin To Net: NetName=P0.16 Pin=U1-C6
+Added Pin To Net: NetName=P0.24 Pin=U1-C8
+Added Pin To Net: NetName=P2.12 Pin=U1-C9
+Added Pin To Net: NetName=P0.22 Pin=U1-C10
+Added Pin To Net: NetName=P2.10 Pin=U1-C11
+Added Pin To Net: NetName=P1.20 Pin=U1-C12
+Added Pin To Net: NetName=P0.5 Pin=U1-C13
+Added Pin To Net: NetName=P0.3 Pin=U1-C14
+Added Pin To Net: NetName=P0.2 Pin=U1-D12
+Added Pin To Net: NetName=P2.5 Pin=U1-E12
+Added Pin To Net: NetName=P0.26 Pin=U1-E13
+Added Pin To Net: NetName=P1.22 Pin=U1-E14
+Added Pin To Net: NetName=P0.25 Pin=U1-F12
+Added Pin To Net: NetName=P1.27 Pin=U1-F13
+Added Pin To Net: NetName=P2.7 Pin=U1-G12
+Added Pin To Net: NetName=P0.7 Pin=U1-G13
+Added Pin To Net: NetName=P0.6 Pin=U1-G14
+Added Pin To Net: NetName=P0.9 Pin=U1-H12
+Added Pin To Net: NetName=P0.8 Pin=U1-J12
+Added Pin To Net: NetName=P0.19 Pin=U1-J13
+Added Pin To Net: NetName=P0.20 Pin=U1-J14
+Added Pin To Net: NetName=P4.28 Pin=U1-K12
+Added Pin To Net: NetName=P4.29 Pin=U1-K13
+Added Pin To Net: NetName=P2.8 Pin=U1-K14
+Added Pin To Net: NetName=JTAG-TMS-SWDIO Pin=U1-L14
+Added Pin To Net: NetName=P0.28 Pin=U1-M3
+Added Pin To Net: NetName=P1.16 Pin=U1-M5
+Added Pin To Net: NetName=P1.8 Pin=U1-M7
+Added Pin To Net: NetName=P1.14 Pin=U1-M8
+Added Pin To Net: NetName=RESET-OUT Pin=U1-M9
+Added Pin To Net: NetName=P0.0 Pin=U1-M10
+Added Pin To Net: NetName=P2.11 Pin=U1-M11
+Added Pin To Net: NetName=P2.4 Pin=U1-M12
+Added Pin To Net: NetName=JTAG-TCK-SWDCLK Pin=U1-M13
+Added Pin To Net: NetName=P1.28 Pin=U1-M14
+Added Pin To Net: NetName=P2.3 Pin=U1-N2
+Added Pin To Net: NetName=P1.26 Pin=U1-N3
+Added Pin To Net: NetName=P3.26 Pin=U1-N4
+Added Pin To Net: NetName=RESET-CPU Pin=U1-N5
+Added Pin To Net: NetName=P3.25 Pin=U1-N6
+Added Pin To Net: NetName=P1.4 Pin=U1-N7
+Added Pin To Net: NetName=P1.9 Pin=U1-N8
+Added Pin To Net: NetName=P1.17 Pin=U1-N9
+Added Pin To Net: NetName=P0.1 Pin=U1-N10
+Added Pin To Net: NetName=P1.31 Pin=U1-N13
+Added Pin To Net: NetName=P1.30 Pin=U1-N14
+Added Pin To Net: NetName=P2.2 Pin=U1-P2
+Added Pin To Net: NetName=P0.27 Pin=U1-P3
+Added Pin To Net: NetName=P1.24 Pin=U1-P4
+Added Pin To Net: NetName=P1.0 Pin=U1-P6
+Added Pin To Net: NetName=P1.1 Pin=U1-P7
+Added Pin To Net: NetName=P1.10 Pin=U1-P8
+Added Pin To Net: NetName=P1.15 Pin=U1-P9
+Added Pin To Net: NetName=P1.29 Pin=U1-P11
+Added Member To Class: ClassName=IOTM-222B Member=Component M1 IOTMODULAR
+Added Member To Class: ClassName=IOTM222 Member=Component U1 LCMXO2-4000HC-4MG132I
+Added Member To Class: ClassName=IOTM222 Member=Component U2 CP2112

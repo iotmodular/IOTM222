@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=P2.0 Pin=U1-A2
+Removed Pin From Net: NetName=P0.10 Pin=U1-A3
+Removed Pin From Net: NetName=P0.17 Pin=U1-A4
+Removed Pin From Net: NetName=P2.9 Pin=U1-A6
+Removed Pin From Net: NetName=P1.23 Pin=U1-A7
+Removed Pin From Net: NetName=P0.29 Pin=U1-A9
+Removed Pin From Net: NetName=P0.21 Pin=U1-A10
+Removed Pin From Net: NetName=P1.18 Pin=U1-A11
+Removed Pin From Net: NetName=P1.21 Pin=U1-A12
+Removed Pin From Net: NetName=P1.25 Pin=U1-A13
+Removed Pin From Net: NetName=P2.1 Pin=U1-B3
+Removed Pin From Net: NetName=P0.18 Pin=U1-B4
+Removed Pin From Net: NetName=P0.15 Pin=U1-B5
+Removed Pin From Net: NetName=RESET-CPU Pin=U1-B6
+Removed Pin From Net: NetName=P0.23 Pin=U1-B7
+Removed Pin From Net: NetName=P2.13 Pin=U1-B8
+Removed Pin From Net: NetName=P0.30 Pin=U1-B9
+Removed Pin From Net: NetName=P1.19 Pin=U1-B12
+Removed Pin From Net: NetName=P2.6 Pin=U1-B13
+Removed Pin From Net: NetName=P0.4 Pin=U1-B14
+Removed Pin From Net: NetName=P0.11 Pin=U1-C4
+Removed Pin From Net: NetName=P0.16 Pin=U1-C6
+Removed Pin From Net: NetName=P0.24 Pin=U1-C8
+Removed Pin From Net: NetName=P2.12 Pin=U1-C9
+Removed Pin From Net: NetName=P0.22 Pin=U1-C10
+Removed Pin From Net: NetName=P2.10 Pin=U1-C11
+Removed Pin From Net: NetName=P1.20 Pin=U1-C12
+Removed Pin From Net: NetName=P0.5 Pin=U1-C13
+Removed Pin From Net: NetName=P0.3 Pin=U1-C14
+Removed Pin From Net: NetName=P0.2 Pin=U1-D12
+Removed Pin From Net: NetName=P2.5 Pin=U1-E12
+Removed Pin From Net: NetName=P0.26 Pin=U1-E13
+Removed Pin From Net: NetName=P1.22 Pin=U1-E14
+Removed Pin From Net: NetName=P0.25 Pin=U1-F12
+Removed Pin From Net: NetName=P1.27 Pin=U1-F13
+Removed Pin From Net: NetName=P2.7 Pin=U1-G12
+Removed Pin From Net: NetName=P0.7 Pin=U1-G13
+Removed Pin From Net: NetName=P0.6 Pin=U1-G14
+Removed Pin From Net: NetName=P0.9 Pin=U1-H12
+Removed Pin From Net: NetName=P0.8 Pin=U1-J12
+Removed Pin From Net: NetName=P0.19 Pin=U1-J13
+Removed Pin From Net: NetName=P0.20 Pin=U1-J14
+Removed Pin From Net: NetName=P4.28 Pin=U1-K12
+Removed Pin From Net: NetName=P4.29 Pin=U1-K13
+Removed Pin From Net: NetName=P2.8 Pin=U1-K14
+Removed Pin From Net: NetName=JTAG-TMS-SWDIO Pin=U1-L14
+Removed Pin From Net: NetName=P0.28 Pin=U1-M3
+Removed Pin From Net: NetName=P1.16 Pin=U1-M5
+Removed Pin From Net: NetName=P1.8 Pin=U1-M7
+Removed Pin From Net: NetName=P1.14 Pin=U1-M8
+Removed Pin From Net: NetName=RESET-OUT Pin=U1-M9
+Removed Pin From Net: NetName=P0.0 Pin=U1-M10
+Removed Pin From Net: NetName=P2.11 Pin=U1-M11
+Removed Pin From Net: NetName=P2.4 Pin=U1-M12
+Removed Pin From Net: NetName=JTAG-TCK-SWDCLK Pin=U1-M13
+Removed Pin From Net: NetName=P1.28 Pin=U1-M14
+Removed Pin From Net: NetName=P2.3 Pin=U1-N2
+Removed Pin From Net: NetName=P1.26 Pin=U1-N3
+Removed Pin From Net: NetName=P3.26 Pin=U1-N4
+Removed Pin From Net: NetName=RESET-CPU Pin=U1-N5
+Removed Pin From Net: NetName=P3.25 Pin=U1-N6
+Removed Pin From Net: NetName=P1.4 Pin=U1-N7
+Removed Pin From Net: NetName=P1.9 Pin=U1-N8
+Removed Pin From Net: NetName=P1.17 Pin=U1-N9
+Removed Pin From Net: NetName=P0.1 Pin=U1-N10
+Removed Pin From Net: NetName=P1.31 Pin=U1-N13
+Removed Pin From Net: NetName=P1.30 Pin=U1-N14
+Removed Pin From Net: NetName=P2.2 Pin=U1-P2
+Removed Pin From Net: NetName=P0.27 Pin=U1-P3
+Removed Pin From Net: NetName=P1.24 Pin=U1-P4
+Removed Pin From Net: NetName=P1.0 Pin=U1-P6
+Removed Pin From Net: NetName=P1.1 Pin=U1-P7
+Removed Pin From Net: NetName=P1.10 Pin=U1-P8
+Removed Pin From Net: NetName=P1.15 Pin=U1-P9
+Removed Pin From Net: NetName=P1.29 Pin=U1-P11
+Change Component Comment : Designator=U1 Old Comment=LCMXO2-4000HC-4MG132I New Comment=LCMXO2-4000HC-5TG144I
+Change component parameters: Designator = "U1" ("U1"); Footprint = "csBGA132"; UniqueID = "\KUFVVMNQ" ("\KUFVVMNQ")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-BFB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.latticesemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.latticesemi.com/documents/DS1035.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.latticesemi.com/lit/docs/package/pkg.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "ver01.5, Aug-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "144-Pin Thin Quad Flat Pack (TQFP144)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TQFP144"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ver02.8, Jul-2011"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=IOTM-222B Member=Component J3 HEADER BOARD-BOARD 60 PINS  PITCH 0.4mm
+Added Member To Class: ClassName=IOTM-222B Member=Component J4 HEADER BOARD-BOARD 60 PINS  PITCH 0.4mm
